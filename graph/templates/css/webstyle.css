@@ -1,0 +1,45 @@
+
+body
+ {
+	 font-family: "Verdana", Verdana, san-serif;
+	 background-color:#1a53ff;
+	 color:green;
+ }
+ 
+ h1
+ {
+	 font-family:"Copperplate Gothic Light", Arial, sans-serif;
+	 font-size:"100px";
+	 border-bottom: 5px ridge;
+	 border-color: white;
+	 text-align:center;
+	 font-style: bold;
+	 
+ }
+ 
+ h2
+ {
+	 font-family:"Copperplate Gothic Light", Arial, sans-serif;
+	 font-size:"85px";
+	 border-bottom: 5px ridge;
+	 border-color: white;
+	 text-align: left;
+	 font-style: bold;
+ }
+ 
+ p{
+	 font-family:"Verdana", Verdana, san-serif;
+	 color: white;
+	 text-align: left;
+ }
+ 
+ #main
+ {
+	 padding: 50px;
+	 background-color: black;
+	 border-radius: 10px 10px 10px 10px;
+	 border: 10px;
+	 border-color: white;
+	 width: 1200px;
+	 height: 600px;
+ }
